@@ -2,7 +2,6 @@
 
 🎓 **Student:** Computer Science & Statistics  
 🚀 **Currently Learning:** Data Analysis & Android Development  
-🌍 **Location:** Cairo, Egypt  
 🗣️ **Languages:** Arabic (Native), English (Professional)
 
 ---
